@@ -1,0 +1,10 @@
+.Iback{
+    color:#c6c6c6;
+    height: 260px;
+    text-align: center;
+    display: inline-block;
+}
+hr{
+    border: 2px solid #c6c6c6;
+    border-radius: 5px;
+}

@@ -1,0 +1,17 @@
+.Gtitle{
+    color:#282c2f;
+    font-weight: bold;
+    font-size:30px;
+    margin-top: 50px;
+    margin-left: 45%;
+}
+
+.colection{
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
+width: 90%;
+margin-left: 5%;
+margin-top: 25px;
+margin-bottom: 50px;
+}

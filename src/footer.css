@@ -1,0 +1,41 @@
+.Fback{
+    background-color: #15120d;
+    margin-bottom: 0;
+    padding: 32px;
+}
+.Fbtn{
+    background-color: #2b2a2800;
+    padding: 6px;
+    color:#e7e5e3;
+    border: 2px solid #e7e5e3;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    width:120px;
+    margin-left: 15%;
+    margin-right: 18%;
+}
+.Fbtn:hover{
+    background-color:#e7e5e3;
+    color:#2b2a28;
+
+}
+.left{
+    color:#e7e5e3;
+    display: inline-block;
+    margin-left: 7%;
+    vertical-align: top;
+}
+
+.right{
+    color:#e7e5e3;
+    display: inline-block;
+}
+
+.IMG{
+    margin: 5px;
+    cursor: pointer;
+}
+.IMG:hover{
+    opacity: 0.8;
+}

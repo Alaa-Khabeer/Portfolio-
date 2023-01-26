@@ -1,0 +1,10 @@
+.Img{
+    display:flex;
+    display: block !important;
+    margin:15px;
+    box-shadow: 0 0 6px #3e414367;
+}
+.Img:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}

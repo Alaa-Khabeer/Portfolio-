@@ -1,0 +1,36 @@
+.title{
+    color:#282c2f;
+    font-weight: bold;
+    font-size:30px;
+    margin-top: 20px;
+    margin-left: 17%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.body{
+    color:#777777;
+    font-weight: bold;
+    font-size:12px;
+    margin-left: 1%;
+    display: inline-block;
+}
+.txt{
+    margin-top:90px;
+    margin-bottom:90px;
+}
+
+.btn_download{
+    color: #e1e1e1;
+    background: url("./assets/btn.png")no-repeat;
+    border:none;
+    border-radius:3px;
+    padding:8px;
+    font-size: 13px;
+    text-decoration: none;
+ }
+
+.btn_download:hover{
+    cursor: pointer;
+    color:#858484;
+ }
